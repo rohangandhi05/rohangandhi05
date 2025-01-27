@@ -13,7 +13,7 @@ I am a second-year computer student at Simon Fraser University, passionate about
 - 🔸 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 🔸 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio](#https://rohanxg.vercel.app/)!
+Check out my [coding portfolio](https://rohanxg.vercel.app/)!
 
 ---
 
