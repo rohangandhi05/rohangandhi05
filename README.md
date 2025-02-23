@@ -22,8 +22,7 @@ Check out my [coding portfolio](https://rohanxg.vercel.app/)!
 Some things I enjoy doing:
 - Implementing small mechatronic and robotic projects into my daily life
 - Doing an occasional hike in the mountains of BC
-- Reading
-- Listening to music (tons of genres)
+- Listening to music 
 
 
 
