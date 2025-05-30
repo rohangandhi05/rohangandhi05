@@ -1,9 +1,5 @@
 # Hi 👋 I'm Rohan Gandhi
 
----
-
-## 👁‍🗨 About Me:
-
 I am a second-year computer student at Simon Fraser University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ---
